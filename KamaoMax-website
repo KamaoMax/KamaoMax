@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KamaoMax - Coming Soon</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: 'Poppins', sans-serif; background-color: #f4f4f4; text-align: center; padding-top: 100px; }
+        h1 { color: green; font-size: 40px; }
+        p { color: #333; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>🚀 KamaoMax</h1>
+    <p>The most trusted earning website is launching soon!</p>
+</body>
+</html>
